@@ -7,10 +7,10 @@ from requests.auth import HTTPBasicAuth
 
 # ----------------------------
 # Safaricom Daraja credentials (sandbox)
-consumer_key = "YOUR_CONSUMER_KEY"
-consumer_secret = "YOUR_CONSUMER_SECRET"
+consumer_key = "gxs1xHg6Sdq147hMPuoFEGvW2I54Bm1qc0Z24hR9EUrxbxR7"
+consumer_secret = "9ZEkCTRHwXVQUvCcipDiXHJwXbb7GNrfLEx6gZUV5ogUzGMBWIglMiN0OlX2DkP8"
 shortcode = "174379"
-passkey = "YOUR_PASSKEY"
+passkey = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
 COST_PER_GAME = 20
 
 # Global trackers
