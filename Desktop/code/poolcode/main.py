@@ -1,4 +1,4 @@
-import tkinter as tk
+toimport tkinter as tk
 from tkinter import messagebox
 import requests
 import base64
@@ -50,7 +50,6 @@ def stk_push(phone_number, amount):
 
     response = requests.post(api_url, json=payload, headers=headers)
     return response.json()
-
 # ----------------------------
 # GUI Logic
 def pay():
