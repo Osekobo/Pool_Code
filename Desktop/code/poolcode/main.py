@@ -4,7 +4,6 @@ import requests
 import base64
 import datetime
 from requests.auth import HTTPBasicAuth
-
 # ----------------------------
 # Safaricom Daraja credentials (sandbox)
 consumer_key = "gxs1xHg6Sdq147hMPuoFEGvW2I54Bm1qc0Z24hR9EUrxbxR7"
